@@ -8,7 +8,7 @@
 
 - general note: incase of golang and RUST, please see the last commit message and if the message says final and binary released, means code completed else in development phase. 
 
-![](https://github.com/applicativesystem/rust-view-aln-wasm/blob/master/embedded_alignment_visualization.png)
+![](https://github.com/applicativesystem/rust-view-aln-wasm/blob/main/metagenome_alignment.png)
 
 ```
 cargo build
